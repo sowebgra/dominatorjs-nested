@@ -23,7 +23,7 @@ You don't need to install Node.js, npm, or additional dependencies to try the ba
 Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/dominatorjs-nested.git
+git clone https://github.com/sowebgra/dominatorjs-nested.git
 ```
 
 Alternatively, download the repository as a ZIP file directly from GitHub.
